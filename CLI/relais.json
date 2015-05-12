@@ -1,0 +1,42 @@
+{
+    "Default": {
+        "script": "defaultcontrol.sh",
+        "parameters": [
+            "t >= 0",
+            "t <= 1440"
+        ],
+        "override": -1
+    },
+    "R1": {
+        "script": "defaultcontrol.sh",
+        "parameters": [
+           "t >= 0",
+            "t <= 1440"
+        ],
+        "override": -1
+    },
+    "R2": {
+        "script": "defaultcontrol.sh",
+        "parameters": [
+            "t >= 0",
+            "t <= 1440"
+        ],
+        "override": -1
+    },
+    "R3": {
+        "script": "defaultcontrol.sh",
+        "parameters": [
+            "t >= 0",
+            "t <= 1440"
+        ],
+        "override": -1
+    },
+    "R4": {
+        "script": "defaultcontrol.sh",
+        "parameters": [
+           "t >= 0",
+            "t <= 1440"
+        ],
+        "override": -1
+    }
+}
