@@ -37,3 +37,9 @@ Known issues:
 ------------------------------------------------------------------------
 - After a reboot the serial (uart) has to be opened by an other program - if this is not the case, the raspberry answers with some rubbish sequences...
 - The calibration of the MCP39F501 is invalid - maybe there is a problem with the print.
+
+
+
+
+You can download a preinstalled raspbian image here:
+https://mega.co.nz/#F!rpBVlAKI!rYRUqPWmyS1goKNWMSgLuQ
